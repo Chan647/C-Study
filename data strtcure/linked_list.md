@@ -28,6 +28,7 @@
 
 ## 🔹예시
 
+```cpp
 #include <iostream>
 using namespace std;
 
@@ -84,6 +85,7 @@ int main() {
     printList(head);
     return 0;
 }
+```
 
 ## 💡 사용 예시
 - 동적 큐, 스택 구현

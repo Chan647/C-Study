@@ -2,8 +2,8 @@
 
 ## 📂 덱(Deque)이란?
 
-> 덱(Deque)은 Double-Ended Queue 의 약자 
-> “앞과 뒤 두 방향에서 모두 삽입과 삭제가 가능한 자료구조
+- 덱(Deque)은 Double-Ended Queue 의 약자 
+- 앞과 뒤 두 방향에서 모두 삽입과 삭제가 가능한 자료구조
 
 ### ✅ 주요 특징
 
@@ -21,17 +21,18 @@
 
 ### 🔧 주요 메서드 
 
-| `push_front()` | 앞에 삽입 |
-| `push_back()` | 뒤에 삽입 |
-| `pop_front()` | 앞의 요소 제거 |
-| `pop_back()` | 뒤의 요소 제거 |
-| `front()` | 맨 앞에 있는 요소 반환 |
-| `back()` | 맨 뒤에 있는 요소 반환 |
-| `empty()` | 덱이 비어있는지 여부 확인 |
-| `size()` | 요소 개수 반환 |
+- push_front() 앞에 삽입 
+- push_back()  뒤에 삽입 
+- pop_front()  앞의 요소 제거 
+- pop_back()   뒤의 요소 제거 
+- front()      맨 앞에 있는 요소 반환
+- back()       맨 뒤에 있는 요소 반환 
+- empty()      덱이 비어있는지 여부 확인 
+- size()       요소 개수 반환 
 
 ### 📎 예시 
 
+```cpp
 #include <iostream>
 #include <deque>
 using namespace std;
@@ -54,8 +55,9 @@ int main() {
 
     return 0;
 }
+```
 
 ### 🔍 덱의 사용 
 
--슬라이딩 윈도우 최대값 구하기
+- 슬라이딩 윈도우 최대값 구하기
 - 양방향 삽입/삭제가 필요한 큐 구현

@@ -29,6 +29,7 @@
 
 ## 🔹 최대 힙 예시
 
+```cpp 
 #include <iostream>
 #include <vector>
 #include <algorithm>
@@ -68,6 +69,7 @@ int main() {
         cout << n << " ";
     return 0;
 }
+```
 
 ## 🔹사용 예시
 

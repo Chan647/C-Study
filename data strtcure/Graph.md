@@ -37,6 +37,7 @@
 
 ## 🧪 예시 
 
+```cpp
 #include <iostream>
 #include <map>
 #include <list>
@@ -78,3 +79,4 @@ int main() {
     g.printGraph();
     return 0;
 }
+```

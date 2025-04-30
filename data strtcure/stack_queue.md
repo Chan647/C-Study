@@ -13,11 +13,11 @@
 
 ## 🔧 주요 메서드
 
-| `push()` | 스택에 삽입 |
-| `pop()` | 스택의 top 요소를 제거 |
-| `top()` | 스택의 최상단 요소 반환 |
-| `empty()` | 스택이 비어있는지 여부 확인 |
-| `size()` | 스택에 있는 요소 개수 반환 |
+- push()   스택에 삽입 
+- pop()    스택의 top 요소를 제거 
+- top()    스택의 최상단 요소 반환 
+- empty()  스택이 비어있는지 여부 확인 
+- size()   스택에 있는 요소 개수 반환 
 
 ## ⏱️ 시간복잡도
 
@@ -29,6 +29,7 @@
 
 ## 📎 예시
 
+```cpp
 #include <stack>
 #include <iostream>
 using namespace std;
@@ -42,7 +43,7 @@ int main() {
     cout << s.top() << endl;
     return 0;
 }
-
+```
 
 ### 📚 Queue (큐)란?
 
@@ -55,12 +56,12 @@ int main() {
 
 #### 🔧 주요 메서드
 
-| `push()` | 큐의 뒤쪽에 삽입 |
-| `pop()` | 큐의 앞(front) 요소 제거 |
-| `front()` | 큐의 맨 앞 요소 반환 |
-| `back()` | 큐의 맨 뒤 요소 반환 |
-| `empty()` | 큐가 비어있는지 여부 확인 |
-| `size()` | 큐에 있는 요소 개수 반환 |
+- push()   큐의 뒤쪽에 삽입 
+- pop()    큐의 앞(front) 요소 제거 
+- front()  큐의 맨 앞 요소 반환 
+- back()   큐의 맨 뒤 요소 반환 
+- empty()  큐가 비어있는지 여부 확인 
+- size()   큐에 있는 요소 개수 반환 
 
 ## ⏱️ 시간 복잡도
 
@@ -72,6 +73,7 @@ int main() {
 
 #### 📎 예시 
 
+```cpp
 #include <queue>
 #include <iostream>
 using namespace std;
@@ -85,4 +87,4 @@ int main() {
     cout << q.front() << endl; // 20
     return 0;
 }
-
+```

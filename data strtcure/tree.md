@@ -17,35 +17,36 @@
 
 ## 🔧 트리의 용어
 
-루트(Root)    	트리의 시작점이 되는 노드
-리프(Leaf)	    자식이 없는 노드
-노드(Node)    	데이터를 저장하는 트리의 요소
-간선(Edge)	    노드 간 연결선
-부모(Parent) 	특정 노드를 연결하는 위쪽 노드
-자식(Child) 	특정 노드 아래에 연결된 노드
-깊이(Depth) 	루트에서 특정 노드까지의 거리
-높이(Height)	노드에서 리프까지 가장 긴 경로의 길이
-서브트리	    특정 노드를 루트로 하는 부분 트리
+- 루트(Root)    	트리의 시작점이 되는 노드
+- 리프(Leaf)	    자식이 없는 노드
+- 노드(Node)    	데이터를 저장하는 트리의 요소
+- 간선(Edge)	    노드 간 연결선
+- 부모(Parent) 	    특정 노드를 연결하는 위쪽 노드
+- 자식(Child)    	특정 노드 아래에 연결된 노드
+- 깊이(Depth)   	루트에서 특정 노드까지의 거리
+- 높이(Height)  	노드에서 리프까지 가장 긴 경로의 길이
+- 서브트리	        특정 노드를 루트로 하는 부분 트리
 
 ## 📚 트리 종류 
 
-일반 트리               	자식 수 제한 없는 트리
-이진 트리(Binary Tree)	    노드당 자식이 최대 2개
-완전 이진 트리	            왼쪽부터 차례대로 채워진 이진 트리
-포화 이진 트리           	모든 레벨이 꽉 찬 이진 트리
-이진 탐색 트리(BST)     	왼쪽 < 루트 < 오른쪽
-균형 이진 트리(AVL)	        높이 균형을 맞춘 트리
-힙(Heap)	               완전 이진 트리 + 정렬 성질 (최대/최소 힙)
-트라이(Trie)	           문자열 저장용 트리
-세그먼트 트리,펜윅 트리     구간 합 등 빠른 연산용 특수 트리
-
+- 일반 트리               	자식 수 제한 없는 트리
+- 이진 트리(Binary Tree)	노드당 자식이 최대 2개
+- 완전 이진 트리	        왼쪽부터 차례대로 채워진 이진 트리
+- 포화 이진 트리           	모든 레벨이 꽉 찬 이진 트리
+- 이진 탐색 트리(BST)     	왼쪽 < 루트 < 오른쪽
+- 균형 이진 트리(AVL)	    높이 균형을 맞춘 트리
+- 힙(Heap)	               완전 이진 트리 + 정렬 성질 (최대/최소 힙)
+- 트라이(Trie)	           문자열 저장용 트리
+- 세그먼트 트리,펜윅 트리   구간 합 등 빠른 연산용 특수 트리
 ## 🌳 기본 구조
 
+```cpp
 struct Node {
     int data;
     Node* left;
     Node* right;
-};
+}; 
+```
 
 - `data`: 노드의 값
 - `left`: 왼쪽 자식 노드 포인터
@@ -55,6 +56,7 @@ struct Node {
 
 ### 1. 노드 생성
 
+```cpp
 Node* createNode(int value) {
     Node* newNode = new Node();
     newNode->data = value;
@@ -62,36 +64,39 @@ Node* createNode(int value) {
     newNode->right = nullptr;
     return newNode;
 }
-
+```
 ### 2. 중위 순회 (Inorder Traversal)
 
+```cpp
 void inorderTraversal(Node* node) {
     if (node == nullptr) return;
     inorderTraversal(node->left);
     cout << node->data << " ";
     inorderTraversal(node->right);
 }
-
+```
 
 ### 3. 전위 순회 (Preorder Traversal)
 
+```cpp
 void preorderTraversal(Node* node) {
     if (node == nullptr) return;
     cout << node->data << " ";
     preorderTraversal(node->left);
     preorderTraversal(node->right);
 }
-
+```
 
 ### 4. 후위 순회 (Postorder Traversal)
 
+```cpp
 void postorderTraversal(Node* node) {
     if (node == nullptr) return;
     postorderTraversal(node->left);
     postorderTraversal(node->right);
     cout << node->data << " ";
 }
-
+```
 
 ## 📚 트리 사용 예시
 

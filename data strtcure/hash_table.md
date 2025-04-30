@@ -34,6 +34,7 @@
 
 ### 🔹 예시
 
+```cpp
 #include <unordered_map>
 #include <string>
 using namespace std;
@@ -47,16 +48,17 @@ hashTable[42] = "Cherry"; // 충돌 예시
 for (const auto& pair : hashTable) {
     cout << pair.first << " : " << pair.second << endl;
 }
+```
 
 
 ### 🔹 주요 메서드
 
-| `insert({key, val})` | 값 삽입 |
-| `find(key)` | 반복자 반환, 없으면 `end()` |
-| `erase(key)` | 키 삭제 |
-| `size()` | 원소 개수 |
-| `clear()` | 전체 삭제 |
-| `[key]` | 삽입 및 접근 |
+- insert({key, val})  값 삽입 
+- find(key)           반복자 반환, 없으면 `end()` 
+- erase(key)          키 삭제 
+- size()              원소 개수 
+- clear()             전체 삭제 
+- [key]                 삽입 및 접근 
 
 
 ## 📌  unordered_set 개념
@@ -67,7 +69,7 @@ for (const auto& pair : hashTable) {
 
 ### 🔹 예시
 
-
+```cpp
 #include <unordered_set>
 using namespace std;
 
@@ -76,19 +78,22 @@ unordered_set<int> s = {10, 20, 30};
 for (const auto& elem : s) {
     cout << elem << endl;
 }
-
+```
 
 ### 🔹 예시 비교
 
 #### `unordered_map`
 
+```cpp
 for (const auto& pair : hashTable) {
     cout << pair.first << ", " << pair.second << endl;
 }
-
+```
 
 #### `unordered_set`
 
+```cpp
 for (const auto& elem : s) {
     cout << elem << endl;
 }
+```
