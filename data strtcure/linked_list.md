@@ -18,12 +18,13 @@
 - 원형 연결 리스트 (Circular Linked List)
 
 ## ⏱️ 시간 복잡도
-
--  (Search)	| O(n)	
--  (Insert)	| O(1) ~ O(n)	
--  (Delete)	| O(1) ~ O(n)	
--  (Length) | O(n)	
--  (Print)	| O(n)	
+|            |                  |
+|------------|------------------|
+|(Search)	| O(n)	|
+|  (Insert)	| O(1) ~ O(n)	|
+|  (Delete)	| O(1) ~ O(n)	|
+|  (Length) | O(n)|	
+|  (Print)	| O(n)|	
 
 
 ## 🔹예시
