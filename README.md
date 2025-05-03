@@ -1,8 +1,8 @@
-#  🕴 신입 로봇 엔지니어의 학습 공간
+#  🕴 💻 신입 로봇 엔지니어의 학습 공간
 
 ## C++
   - [C++](https://github.com/Chan647/C-Study/blob/main/C%2B%2B/c%2B%2B_view.md)
-  - [클래스(Class)]()
+  - [클래스(Class)](https://github.com/Chan647/Robotics-Learning-Space/blob/main/C%2B%2B/c%2B%2B_class.md)
 ## 자료구조(Data Structure)
   - [연결리스트(Linked List)](https://github.com/Chan647/C-Study/blob/main/data%20strtcure/linked_list.md)  
   - [스택, 큐(Stack and Queue)](https://github.com/Chan647/C-Study/blob/main/data%20strtcure/stack_queue.md)  
