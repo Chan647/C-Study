@@ -3,8 +3,7 @@
 ## C++
   - [C++](https://github.com/Chan647/C-Study/blob/main/C%2B%2B/c%2B%2B_view.md)
   - [클래스(Class)](https://github.com/Chan647/Robotics-Learning-Space/blob/main/C%2B%2B/c%2B%2B_class.md)
-    - [생성자/소멸자(Constructor/Destructor)]()
-      - [생성자_오버로딩(Constructor_Overloading)]()
+    - [생성자/소멸자(Constructor/Destructor)](https://github.com/Chan647/Robotics-Learning-Space/blob/main/C%2B%2B/c%2B%2B_constructors.md)
     - [상속(Inheritance)]()
     - [접근제어자(access_specifier)]()
     - [this포인터&static키워드]()
