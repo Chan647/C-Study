@@ -12,7 +12,7 @@
     - [추상클래스(Abstract_Class)&순수가상함수(Pure_Virtual_Function)](https://github.com/Chan647/Robotics-Learning-Space/blob/main/C%2B%2B/c%2B%2B_abstract_class_pure_virtual_function.md)
     - [연산자오버로딩(Operator_Overloading)](https://github.com/Chan647/Robotics-Learning-Space/blob/main/C%2B%2B/c%2B%2B_operator_overloading.md)
     - [템플릿(Template)](https://github.com/Chan647/Robotics-Learning-Space/blob/main/C%2B%2B/c%2B%2B_template.md)
-  - [예외처리(try-catch)]()
+  - [예외처리(Exception Handling)](https://github.com/Chan647/Robotics-Learning-Space/blob/main/C%2B%2B/c%2B%2B_exception_handling.md)
   - [스마트포인터(SmartPointer)]()
   - [STL-컨테이너(Standard_Template_Library-Container)]()
   
