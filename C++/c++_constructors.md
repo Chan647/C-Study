@@ -1,6 +1,6 @@
 # 🧱 C++ 생성자(Constructor)와 소멸자(Destructor)
 
-
+---
 ## ✅ 생성자 (Constructor)란?
 
 - 객체가 생성될 때 자동으로 호출되는 특수한 함수

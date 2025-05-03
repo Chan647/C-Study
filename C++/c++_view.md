@@ -1,4 +1,3 @@
-
 ## 📌 C++이란?
 
 C++는 1980년대 초반 Bjarne Stroustrup이 개발한 **범용 프로그래밍 언어**
@@ -10,6 +9,7 @@ C++는 1980년대 초반 Bjarne Stroustrup이 개발한 **범용 프로그래밍
 
 > 대표 사용 분야: 운영체제, 게임 엔진, 임베디드 시스템, 로봇 소프트웨어 등
 
+---
 
 ## 📌 객체지향 프로그래밍(Object-Oriented Programming, OOP)이란??
 
