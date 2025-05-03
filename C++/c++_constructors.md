@@ -66,7 +66,7 @@ public:
 
 ---
 
-## ✅ 전체 예제: 생성자 + 소멸자
+## ✅  예제: 생성자 + 소멸자
 
 ```cpp
 #include <iostream>
@@ -114,7 +114,7 @@ int main() {
 
 ---
 
-## ✅ 예제 코드: Book 클래스
+## ✅ 예제 
 
 ```cpp
 #include <iostream>
@@ -126,14 +126,13 @@ private:
     int price;
 
 public:
-    // 기본 생성자
+    
     Book() {
         title = "제목 없음";
         price = 0;
         cout << "[기본 생성자 호출]" << endl;
     }
 
-    // 매개변수 생성자
     Book(string t, int p) {
         title = t;
         price = p;
