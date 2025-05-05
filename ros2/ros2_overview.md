@@ -144,3 +144,26 @@ def main(args=None):
 - 의료 로봇
 - 드론
 - IoT 연동 로봇
+
+---
+
+## 🎈 실습환경 구성하기(TIAGO)
+
+![alt text](image.png)
+
+- TIAGo는 PAL Robotics에서 개발한 인간-로봇 상호작용 및 서비스 로봇 연구용 모바일 매니퓰레이터
+- 팔, 손, 리프트, 베이스가 결합되어 있어 물체 조작, 내비게이션, 음성 상호작용 등 다양한 작업을 수행할 수 있음
+- ROS/ROS 2 기반으로 작동하며, 시뮬레이션 및 실제 로봇에서 모두 사용 가능
+---
+
+## 🧨 로봇 시뮬레이션 환경 구성하기(ROS2 humble 설치후)
+
+```bash
+sudo apt install ros-humble-tiago-gazebo
+```
+---
+## ✨로봇 시뮬레이션 실행
+
+```bash 
+ros2 launch tiago_gazebo tiago_gazebo.launch.py is_public_sim:=True
+```
