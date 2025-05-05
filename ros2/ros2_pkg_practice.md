@@ -77,5 +77,13 @@ ros2 pkg list | grep cpp_test_pkg
 cpp_test_pkg
 ```
 
-
 ---
+
+## 🧨 특정 패키지만 빌드하기
+
+```
+colcon build --symlink-install --packages-select <package_name>
+
+```
+
+- colcon build --symlink-install --packages-select cpp_test_pkg 처럼 사용하면 됨
