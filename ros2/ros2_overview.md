@@ -149,7 +149,7 @@ def main(args=None):
 
 ## 🎈 실습환경 구성하기(TIAGO)
 
-![Tiago 로봇](./image.png)
+![Tiago](image.png)
 
 - TIAGo는 PAL Robotics에서 개발한 인간-로봇 상호작용 및 서비스 로봇 연구용 모바일 매니퓰레이터
 - 팔, 손, 리프트, 베이스가 결합되어 있어 물체 조작, 내비게이션, 음성 상호작용 등 다양한 작업을 수행할 수 있음
