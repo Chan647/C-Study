@@ -25,7 +25,7 @@ ros2 node info /talker
 
 출력 결과 :
 
-
+<img src="노드정보확인.png" alt="노드 명령어" width="400"/>
 
 ---
 
@@ -106,4 +106,4 @@ ros2 node list
 
 출력 결과:
 
-<img src="노드정보확인.png" alt="노드 명령어" width="400"/>
+<img src="노드확인.png" alt="노드 명령어" width="400"/>
