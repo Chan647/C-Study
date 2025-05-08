@@ -16,6 +16,19 @@
 | `ros2 topic hz <topic_name>` | 메시지가 발행되는 주기 (Hz) 측정 |
 
 ---
+- ros2 topic list :
+
+<img src="토픽 리스트.png" alt="토픽 명령어" width="400"/>
+
+- ros2 topic echo :
+
+<img src="토픽 에코.png" alt="토픽 명령어" width="400"/>
+
+- ros2 topic info :
+
+<img src="토픽 인포.png" alt="토픽 명령어" width="400"/>
+
+---
 
 ## ✅ 예시
 
@@ -39,5 +52,12 @@
 
 ### ✅ 예시
 
+- ros2 interface list :
+
+<img src="인터페이스 리스트.png" alt="인터페이스 명령어" width="400"/>
+
+- ros2 interface show :
+
+<img src="인터페이스 쇼.png" alt="인터페이스 명령어" width="400"/>
 
 ---
