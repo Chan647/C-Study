@@ -151,7 +151,7 @@ trajectory:
 
 <img src="로봇 동작 명령.png" alt="로봇 동작 명령" width="400"/>
 
-<img src="로봇 동작.png" alt="로봇 동작" width="400"/>
+<img src="robot operation.png" alt="로봇 동작" width="400"/>
 
 - Action Server Ready 출력 
 - 목표 trajectory 요청
