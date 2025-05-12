@@ -61,7 +61,7 @@ ros2 run teleop_twist_keyboard teleop_twist_keyboard
 ### 🎥 Localization 성공 확인
 - Particle Cloud가 로봇 주변에 잘 모여 있고, RViz2 상에서 로봇 위치가 정확할 때 Localization 성공  
  
- <img src="amcl.png" alt="amcl" width="400"/>
+ <img src="AMCL.png" alt="AMCL" width="400"/>
 
 ---
 
