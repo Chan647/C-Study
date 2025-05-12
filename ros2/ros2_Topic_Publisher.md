@@ -75,7 +75,7 @@ int main(int argc, char *argv[]) {
 ```
 
 ---
-## 🎆 CMakeLists 수정
+## ⚙️ CMakeLists 수정
 
 ```bash
 add_executable(robot_mover src/robot_mover.cpp)
