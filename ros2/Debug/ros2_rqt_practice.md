@@ -22,8 +22,7 @@ rqt
 
 ## 🎇 Rqt - Plugins
 
--  Configuration - Dynamic Reconfigure
-
+-  **Configuration - Dynamic Reconfigure**
   - RQt 상단 메뉴 → Plugins → Configuration → Dynamic Reconfigure
   - Tiago 로봇에서 동적 파라미터 조정 (예: PID 게인, 속도 제한)  
   - 실시간으로 로봇 반응성 테스트 및 조정  
