@@ -62,7 +62,7 @@
 
 ## 📥 2D LiDAR 기반 Localization 패키지
 
-### 📌 amcl (Adaptive Monte Carlo Localization)
+### 📌 AMCL (Adaptive Monte Carlo Localization)
 
 - 파티클 필터 기반 위치 추정 알고리즘
 - Monte Carlo Localization(MCL)기반, 로봇이 지도에서 자신의 위치를 찾을 수 있도록 도와줌
