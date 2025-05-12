@@ -51,8 +51,7 @@ ros2 run nav2_lifecycle_manager lifecycle_manager --ros-args \
 ```
 - 위 명령으로 map_server 노드를 자동으로 active 상태로 전환
 ---
-## 🔮 Lifecycle 이란??
+## 🔮 Lifecycle 이란???
 - ROS 2 노드의 상태를 체계적으로 관리하는 기능
 - 노드는 unconfigured → inactive → active → finalized 등의 상태로 전이하며, 각 상태에서 수행할 작업을 명확히 구분할 수 있음
 - 이를 통해 시스템 안정성, 자원 관리, 노드 제어를 효율적으로 수행할 수 있음
-
