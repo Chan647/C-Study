@@ -58,6 +58,6 @@
 
 - ros2 interface show :
 
-<img src="인터페이스 쇼.png" alt="인터페이스 쇼" width="400"/>
+<img src="interface show.png" alt="인터페이스 쇼" width="400"/>
 
 ---
