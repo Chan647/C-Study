@@ -109,8 +109,8 @@
 
     - [자율 주행에 사용되는 센서](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/localization/ros2_sensor.md)
 
-  ## 🔊 Nav2 & Path Planning
-    - [Nav2 & Path Planning](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/Nav2/ros2_Nav2.md)
+
+  - [Nav2 & Path Planning](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/Nav2/ros2_Nav2.md)
 
     - [Nav2를 활용한 Path Planning]()
 
