@@ -54,10 +54,10 @@
 
 - ros2 interface list :
 
-<img src="인터페이스 리스트.png" alt="인터페이스 명령어" width="400"/>
+<img src="인터페이스 리스트.png" alt="인터페이스 리스트" width="400"/>
 
 - ros2 interface show :
 
-<img src="인터페이스 쇼.png" alt="인터페이스 명령어" width="400"/>
+<img src="인터페이스 쇼.png" alt="인터페이스 쇼" width="400"/>
 
 ---
