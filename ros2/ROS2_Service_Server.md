@@ -118,3 +118,5 @@ ros2 run tiago_service_examples move_forward_server
 
 - Move Forward Service Ready... 출력, 클라이언트 측에서 명령을 받으면  로봇이 1m 전진
 - Move Forward Completed 출력
+
+---
