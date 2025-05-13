@@ -17,19 +17,19 @@
 
 - ros2 service list :
 
-<img src="service_list.png" alt="service list" width="400"/>
+<img src="service list.png" alt="service list" width="400"/>
 
 - ros2 service type :
 
-<img src="service_type.png" alt="service type" width="400"/>
+<img src="service type.png" alt="service type" width="400"/>
 
 - ros2 service call :
 
-<img src="service_call.png" alt="service call" width="400"/>
+<img src="service call.png" alt="service call" width="400"/>
 
 - ros2 service find :
 
-<img src="service_find.png" alt="service find" width="400"/>
+<img src="service find.png" alt="service find" width="400"/>
 ---
 
 ## ✅ 예시
