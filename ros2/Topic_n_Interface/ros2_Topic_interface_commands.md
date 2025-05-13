@@ -60,4 +60,3 @@
 
 <img src="interface show.png" alt="인터페이스 쇼" width="400"/>
 
----
