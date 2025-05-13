@@ -147,11 +147,11 @@ trajectory:
 
 출력 결과 :
 
-<img src="액션 서버.png" alt="액션 서버" width="400"/>
+<img src="action server.png" alt="action server" width="400"/>
 
-<img src="로봇 동작 명령.png" alt="로봇 동작 명령" width="400"/>
+<img src="robot command.png" alt="robot command" width="400"/>
 
-<img src="robot operation.png" alt="로봇 동작" width="400"/>
+<img src="robot operation.png" alt="robot operation" width="400"/>
 
 - Action Server Ready 출력 
 - 목표 trajectory 요청
