@@ -132,9 +132,9 @@ ros2 run cpp_tutorial_pkg scan_avoid_turn
 
 출력 결과 :
 
-<img src="토픽 pub n sub.png" alt="토픽 pub n sub" width="400"/>
+<img src="topic pub n sub.png" alt="topic pub n sub" width="400"/>
 
-<img src="토픽 회전.png" alt="토픽 회전" width="400"/>
+<img src="topic rotation.png" alt="topic rotation" width="400"/>
 
 
 ---
