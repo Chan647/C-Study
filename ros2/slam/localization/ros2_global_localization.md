@@ -42,7 +42,7 @@ ros2 service call /reinitialize_global_localization std_srvs/srv/Empty
 
 - 출력 결과 :
 
-<img src="global localization.png" alt="global localization" width="400"/>
+<img src="terminal global localization.png" alt="global localization" width="400"/>
 
 - teleop_twist_keyboard 를 이용하여 조작
 - 초기 위치 추정 실패함
