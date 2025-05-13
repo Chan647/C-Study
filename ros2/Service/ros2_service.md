@@ -1,4 +1,4 @@
-# 🌐 ROS 2 : 서비스 (Service)
+# 📚 ROS 2 : 서비스 (Service)
 
 ## ✅ 서비스(Service)란?
 
