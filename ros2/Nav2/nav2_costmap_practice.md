@@ -47,9 +47,9 @@ use_sim_time:=true map:=/home/chan/map/my_map.yaml
 - local costmap :
 
 <img src="local costmap.png" alt="local costmap" width="400"/>
----
 
-## 🎈 RQt를 사용한 Layer 설정 실시간 수정
+
+## 🎉 RQt를 사용한 Layer 설정 실시간 수정
 
 ### 📌 RQt 실행
 
