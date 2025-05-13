@@ -23,7 +23,7 @@
 
 ## 🎮 2D Lidar 기반 알고리즘
 
-##📌 SLAM (Simultaneous Localization and Mapping)
+## 📌 SLAM (Simultaneous Localization and Mapping)
 - 설명: 2D LiDAR 스캔 데이터를 이용해 미지의 환경에서 로봇의 위치를 추정하고 지도를 동시 작성
 
 - 대표 알고리즘:
