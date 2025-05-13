@@ -13,7 +13,7 @@
 | `ros2 service find <service_type>` | 지정한 타입의 서비스를 제공하는 서버 검색 |
 | `ros2 service info <service_name>` | 해당 서비스의 자세한 정보 출력 (서버, 클라이언트) |
 
----
+
 
 - `ros2 service list` :
 
@@ -30,6 +30,7 @@
 - `ros2 service find` :
 
 <img src="service find.png" alt="service find" width="400"/>
+
 ---
 
 ## ✅ 예시
