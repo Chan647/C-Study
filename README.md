@@ -99,7 +99,7 @@
 
     - [Odometry]()
 
-    - [Mapping](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/mapping/ROS2_Mapping.md)
+    - [Mapping](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/mapping/ros2_Mapping.md)
       - [Cartographer 실습](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/mapping/ros2_mapping_practice.md)
       - [지도 수정 및 다른 프로세스에서 사용](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/mapping/ROS2_usemap.md)
 
