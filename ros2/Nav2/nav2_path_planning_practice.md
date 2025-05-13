@@ -42,7 +42,7 @@ ros2 run rviz2 rviz2
    - `/amcl_pose`
 
 
-<img src="rviz2 2d pose estimate" alt="2d pose estimate" width="400"/>
+<img src="rviz2 2d pose estimate.png" alt="2d pose estimate" width="400"/>
 
 <img src="rviz2 2d goal pose.png" alt="2d goal pose" width="400"/>
 
