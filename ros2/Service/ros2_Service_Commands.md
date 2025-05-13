@@ -15,19 +15,19 @@
 
 ---
 
-- ros2 service list :
+- `ros2 service list` :
 
 <img src="service list.png" alt="service list" width="400"/>
 
-- ros2 service type :
+- `ros2 service type` :
 
 <img src="service type.png" alt="service type" width="400"/>
 
-- ros2 service call :
+- `ros2 service call` :
 
 <img src="service call.png" alt="service call" width="400"/>
 
-- ros2 service find :
+- `ros2 service find` :
 
 <img src="service find.png" alt="service find" width="400"/>
 ---
@@ -51,7 +51,7 @@
 
 ### ✅ 예시
 
-- ros2 interface show (서비스 구조) :
+- `ros2 interface show` (서비스 구조) :
 
 <img src="service show.png" alt="service show" width="400"/>
 
