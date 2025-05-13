@@ -96,25 +96,18 @@
     - [Rosbag2](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/Debug/ros2_rosbag2_practice.md)
 
   - [SLAM(Simultaneous Localization And Mapping)](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/ros2_slam.md)
-
     - [Odometry](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/ros2_odometry.md)
-
     - [Mapping](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/mapping/ros2_Mapping.md)
       - [Cartographer 실습](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/mapping/ros2_mapping_practice.md)
       - [지도 수정 및 다른 프로세스에서 사용](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/mapping/ros2_usemap.md)
-
     - [Localization](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/localization/ros2_localization.md)
       - [AMCL(Adaptive Monte Carlo Localization)](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/localization/ros2_amcl_practice.md)
       - [AMCL 기반 로봇 초기 위치 추정](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/localization/ros2_amcl_Initial_Pose_Methods.md)
       - [Global Localization](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/localization/ros2_global_localization.md)
-
     - [자율 주행에 사용되는 센서](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/slam/localization/ros2_sensor.md)
 
-
   - [Nav2 & Path Planning](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/Nav2/ros2_Nav2.md)
-
     - [Nav2를 활용한 Path Planning](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/Nav2/nav2_path_planning_practice.md)
-
     - [Costmap](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/Nav2/ros2_costmap.md)
       - [Costmap 실습](https://github.com/Chan647/Robotics-Learning-Space/blob/main/ros2/Nav2/nav2_costmap_practice.md)
 
