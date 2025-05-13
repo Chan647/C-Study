@@ -57,7 +57,7 @@ ros2 pkg create --build-type ament_cmake global_localization_client --dependenci
 ```
 ---
 ### 📄 예제 코드
----
+
 
 ```cpp
 #include "rclcpp/rclcpp.hpp"
