@@ -95,7 +95,7 @@ ros2 run cpp_tutorial_pkg robot_mover
 
 ## ✅ 결과
 
-<img src="움직임 출력.png" alt="움직임 출력" width="400"/>
+<img src="move print.png" alt="move print" width="400"/>
 
-<img src="움직임 티아고.png" alt="움직임 티아고" width="400"/>
+<img src="move robot.png" alt="move robot" width="400"/>
 
