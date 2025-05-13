@@ -204,6 +204,5 @@ ros2 run navigate_to_pose_client navigate_to_pose_client
 <img src="pkg run.png" alt="pkg run" width="400"/>
 
 <img src="pgm robot move.png" alt="pgm robot move" width="400"/>
----
 
 
