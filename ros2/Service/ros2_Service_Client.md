@@ -115,6 +115,6 @@ ros2 run tiago_service_examples move_forward_client
 ```
 출력 결과 : 
 
-<img src="서비스 클라이언트.png" alt="서비스 클라이언트" width="400"/>
+<img src="service client.png" alt="service client" width="400"/>
 
 - 클라이언트는 Service Call Success : True 메시지 출력
