@@ -144,7 +144,7 @@ ros2 launch cpp_tutorial_pkg talker_listener_launch.py
 
 출력 결과:
 
-<img src="런치 실습.png" alt="런치 파일 실행" width="400"/>
+<img src="launch practice.png" alt="launch practice" width="400"/>
 
 ---
 
