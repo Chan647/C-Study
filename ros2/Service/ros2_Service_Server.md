@@ -114,9 +114,9 @@ ros2 run tiago_service_examples move_forward_server
 
 출력 결과 :
 
-<img src="서비스 서버.png" alt="서비스 서버" width="400"/>
+<img src="service server.png" alt="service server" width="400"/>
 
-<img src="서비스 로봇.png" alt="서비스 로봇" width="400"/>
+<img src="service robot.png" alt="service robot" width="400"/>
 
 - Move Forward Service Ready... 출력, 클라이언트 측에서 명령을 받으면  로봇이 1m 전진
 - Move Forward Completed 출력
