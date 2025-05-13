@@ -50,9 +50,9 @@ ros2 topic pub -1 /initialpose geometry_msgs/msg/PoseWithCovarianceStamped
 
 - 출력 결과 :
 
- <img src="명령어.png" alt="명령어" width="400"/>
+ <img src="pose command.png" alt="pose command" width="400"/>
 
- <img src="위치 설정 명령.png" alt="위치 설정 명령" width="400"/>
+ <img src="pose command picture.png" alt="pose command picture" width="400"/>
 
 
 ---
@@ -68,7 +68,7 @@ occupied_thresh: 0.65
 free_thresh: 0.196
 ```
 
-<img src="yaml 수정.png" alt="yaml 수정" width="400"/>
+<img src="yaml resume.png" alt="yaml resume" width="400"/>
 
 
 - `origin` 값 수정 시 초기 위치가 자동으로 반영
