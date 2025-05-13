@@ -96,7 +96,7 @@ source install/setup.bash
 
 TIAGo 시뮬레이터를 먼저 실행한 후:  
 
-<img src="티아고 시뮬레이터.png" alt="티아고 시뮬레이터" width="400"/>
+<img src="robot simulator.png" alt="robot simulator" width="400"/>
 
 
 ```bash
@@ -105,7 +105,7 @@ ros2 run cpp_tutorial_pkg odom_listener
 
 출력 결과:
 
-<img src="토픽 서브스크라이버.png" alt="토픽 서브스크라이버" width="400"/>
+<img src="topic subscriber.png" alt="topic subscriber" width="400"/>
 
 - teleop_twist_keyboard를 이용하여 로봇 조작 시, 위치와 속도 출력
 ---
