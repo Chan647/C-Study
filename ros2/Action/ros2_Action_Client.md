@@ -107,9 +107,9 @@ ros2 run tiago_arm_control move_arm_client
 ```
 출력 결과 :
 
-<img src="액션 클라이언트.png" alt="액션 클라이언트" width="400"/>
+<img src="action client.png" alt="action client" width="400"/>
 
-<img src="로봇 팔모션.png" alt="로봇 팔모션" width="400"/>
+<img src="robot motion.png" alt="robot motion" width="400"/>
 
 - 시뮬레이션에서 로봇 팔이 목표 위치로 움직임
 
