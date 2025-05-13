@@ -18,15 +18,15 @@
 ---
 - ros2 topic list :
 
-<img src="토픽 리스트.png" alt="토픽 명령어" width="400"/>
+<img src="topic list.png" alt="topic list" width="400"/>
 
 - ros2 topic echo :
 
-<img src="토픽 에코.png" alt="토픽 명령어" width="400"/>
+<img src="topic echo.png" alt="topic echo" width="400"/>
 
 - ros2 topic info :
 
-<img src="토픽 인포.png" alt="토픽 명령어" width="400"/>
+<img src="topic info.png" alt="topic info" width="400"/>
 
 ---
 
@@ -54,10 +54,10 @@
 
 - ros2 interface list :
 
-<img src="인터페이스 리스트.png" alt="인터페이스 리스트" width="400"/>
+<img src="interface list.png" alt="interface list" width="400"/>
 
 - ros2 interface show :
 
-<img src="interface show.png" alt="인터페이스 쇼" width="400"/>
+<img src="interface show.png" alt="interface show" width="400"/>
 
 ---
