@@ -44,7 +44,7 @@
 
 | 명령어 | 설명 |
 |--------|------|
-| (ros2 interface list | grep srv)| 사용 가능한 모든 서비스 인터페이스 타입 출력 |
+| ros2 interface list \ grep srv| 사용 가능한 모든 서비스 인터페이스 타입 출력 |
 | `ros2 interface show <service_type>` | 특정 서비스 인터페이스의 Request/Response 구조 확인 |
 
 ---
