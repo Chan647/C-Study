@@ -25,7 +25,7 @@ ros2 node info /talker
 
 출력 결과 :
 
-<img src="노드정보확인.png" alt="노드 명령어" width="400"/>
+<img src="node info.png" alt="node info" width="400"/>
 
 ---
 
@@ -96,7 +96,7 @@ ros2 run my_node_pkg basic_node
 
 출력 결과:
 
-<img src="노드실습.png" alt="노드 실행" width="400"/>
+<img src="node practice.png" alt="node practice" width="400"/>
 
 ### ✅ 실행 중 노드 다시 확인
 
@@ -106,4 +106,4 @@ ros2 node list
 
 출력 결과:
 
-<img src="노드확인.png" alt="노드 명령어" width="400"/>
+<img src="node check.png" alt="node check" width="400"/>
